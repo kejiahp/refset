@@ -1,4 +1,6 @@
 {
   "name": "refset",
-  "displayName": "refset"
+  "displayName": "refset",
+  "description": "A desktop application helping students set up citations and referencing plugins in MS Word.",
+  "version": "0.0.1"
 }
